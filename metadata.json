@@ -1,0 +1,6 @@
+{
+  "name": "CampusTrade 校園二手交換平台",
+  "description": "全國大學生二手物品交換與買賣平台。支援課本教材、3C電子、家具生活交換、贈送與買賣，免手續費與校園身分認證。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
